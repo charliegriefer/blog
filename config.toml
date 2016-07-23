@@ -1,4 +1,4 @@
-baseurl = "http://localhost:1313/"
+baseurl = "http://charliegriefer.github.com/"
 languageCode = "en-us"
 title = "Going := the Distance"
 theme = "hugo-future-imperfect"
