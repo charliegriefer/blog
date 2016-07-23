@@ -29,5 +29,5 @@ git commit -m "$msg"
 # Push source and build repos.
 echo -e "\033[0;32mPushing origin master...\033[0m"
 git push origin master
-echo -e "\033[0;32Pushing subtree...\033[0m"
+echo -e "\033[0;32mPushing subtree...\033[0m"
 git subtree push --prefix=public git@github.com:charliegriefer/charliegriefer.github.io public
