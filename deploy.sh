@@ -36,4 +36,4 @@ cd ..
 
 echo -e "\033[0;32mRemoving public directory...\033[0m"
 # Ensure the public folder is gone
-rm -rf public
+# rm -rf public
