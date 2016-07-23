@@ -2,8 +2,8 @@
 
 echo -e "\033[0;32mDeploying updates to Github...\033[0m"
 
-echo -e "\033[0;32mRemoving 'public' directory...\033[0m"
-rm -rf public # Ensure the public folder is gone
+# echo -e "\033[0;32mRemoving 'public' directory...\033[0m"
+# rm -rf public # Ensure the public folder is gone
 
 echo -e "\033[0;32mPushing Hugo files...\033[0m"
 git add .
@@ -31,5 +31,5 @@ git push origin master # Push source and build repos.
 echo -e "\033[0;32mMoving out of 'public' directory...\033[0m"
 cd .. # change up into the parent level directory
 
-echo -e "\033[0;32mRemoving public directory...\033[0m"
-rm -rf public # Ensure the public folder is gone
+# echo -e "\033[0;32mRemoving public directory...\033[0m"
+# rm -rf public # Ensure the public folder is gone
