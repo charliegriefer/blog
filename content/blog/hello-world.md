@@ -16,4 +16,4 @@ type = "post"
 
 There will be more content here soon.
 
-Maybe tomorrow?
+Maybe tomorrow? The sun'll come out.
