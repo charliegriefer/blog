@@ -1,2 +1,3 @@
-# charliegriefer.github.io
-My github pages blog. Based on Hugo.
+## Hugo Blog Files
+
+Source files for Hugo. Rendered static files will reside in charliegriefer.github.io
