@@ -16,4 +16,4 @@ type = "post"
 
 There will be more content here soon.
 
-Hugo is magical.
+Maybe tomorrow.
