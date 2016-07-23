@@ -30,8 +30,9 @@ git commit -m "$msg"
 echo -e "\033[0;32mPushing origin master...\033[0m"
 git push origin master
 echo -e "\033[0;32mPushing subtree...\033[0m"
-git subtree push --prefix=public git@github.com:charliegriefer/charliegriefer.github.io.git public
+# git subtree push --prefix=public git@github.com:charliegriefer/charliegriefer.github.io.git public
 
+cd ..
 
 echo -e "\033[0;32mRemoving public directory...\033[0m"
 # Ensure the public folder is gone
