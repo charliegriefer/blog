@@ -13,3 +13,7 @@ type = "post"
 +++
 
 ## Hello World!
+
+There will be more content here soon.
+
+Hugo is magical.
