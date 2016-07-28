@@ -3,9 +3,9 @@
 echo -e "\033[0;32mDeploying updates to Github...\033[0m"
 
 # echo -e "\033[0;32mRemoving 'public' directory...\033[0m"
-rm -rf public # Ensure the public folder is gone
+# rm -rf public # Ensure the public folder is gone
 
-# let's assume we pushed the Hugo files. 
+# let's assume we pushed the Hugo files.
 # echo -e "\033[0;32mPushing Hugo files...\033[0m"
 # git add .
 # git push -u origin master
