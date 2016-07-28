@@ -6,6 +6,7 @@ preserveTaxonomyNames = true
 paginate = 3
 disqusShortname = "shortname"
 googleAnalytics = ""
+publishdir = "../charliegriefer.github.io"
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
