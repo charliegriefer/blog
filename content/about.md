@@ -25,7 +25,7 @@ By night, Charlie teaches [Krav Maga](https://en.wikipedia.org/wiki/Krav_Maga) a
 
 He started training in 2009, when he realized that he'd like to be around a little bit longer to see his kids grow up. He quit smoking, started eating better, and started training.
 
-He was asked to join the Instrutor Trainee Program in 2014, and received his instructor certification from Chief Instructor Jay Ackerman in 2015. 
+He was asked to join the Instructor Trainee Program in 2014, and received his instructor certification from Chief Instructor Jay Ackerman in 2015. 
 
 ---
 
