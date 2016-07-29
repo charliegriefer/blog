@@ -7,7 +7,7 @@ featured = ""
 featuredalt = ""
 featuredpath = ""
 linktitle = ""
-title = "Hugo on Github Pages (Going := the Distance)"
+title = "Hugo on Github Pages"
 type = "post"
 +++
 
