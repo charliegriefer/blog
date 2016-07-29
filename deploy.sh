@@ -2,6 +2,9 @@
 
 echo -e "\033[0;32mDeploying new blog...\033[0m"
 
+echo -e "\033[0;32mDeleting old site...\033[0m"
+rm -rf ~/src/charliegriefer.github.io/
+
 echo -e "\033[0;32mRunning hugo...\033[0m"
 hugo -d ../charliegriefer.github.io
 
