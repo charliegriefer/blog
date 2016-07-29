@@ -11,7 +11,7 @@ layoutdir = "layouts"
 publishdir = "public"
 
 [permalinks]
-  posts = "/:year/:month/:day/:slug/"
+  posts = "/posts/:year/:month/:day/:slug/"
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
