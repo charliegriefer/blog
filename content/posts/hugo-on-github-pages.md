@@ -2,14 +2,13 @@
 author = ""
 categories = ["Hugo", "Github Pages", "Go"]
 date = "2016-07-29T19:11:09-07:00"
-description = ""
+description = "Setting up Hugo to use Github Pages"
 featured = ""
 featuredalt = ""
 featuredpath = ""
 linktitle = ""
 title = "Hugo on Github Pages"
 type = "post"
-permalinks = "post: /:year/:month/:title/"
 +++
 
 ## Hugo on Github Pages
