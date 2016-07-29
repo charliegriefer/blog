@@ -6,6 +6,12 @@ preserveTaxonomyNames = true
 paginate = 3
 disqusShortname = "shortname"
 googleAnalytics = ""
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+[permalinks]
+  posts = "/:year/:month/:day/:slug/"
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
@@ -16,7 +22,7 @@ googleAnalytics = ""
     socialAppearAtTop    = true
     socialAppearAtBottom = true
     # set this to the section name if section is not post
-    viewMorePostLink     = "/blog/"
+    # viewMorePostLink     = "/blog/"
 
 # Optional Params
     categoriesByCount    = true
@@ -55,18 +61,18 @@ googleAnalytics = ""
     circle    = true
     imperfect = false
     width     = ""
-    alt       = "Charlie Griefer"
+    alt       = "It's Charlie"
 
 # Adjust the amount of recent posts on the sidebar.
 # This is optional. The default value 5 will be used
 [params.postAmount]
-    sidebar = 2
+    sidebar = 5
 
 # Set up your menu items in the navigation bar
 # You can use identifier to prepend a font awesome icon to your text
 [[menu.main]]
     name = "Blog"
-    url = "/blog"
+    url = "/posts"
     identifier = "fa fa-newspaper-o"
     weight = 1
 
@@ -77,7 +83,7 @@ googleAnalytics = ""
 
 [[menu.main]]
     name = "About"
-    url = "/about"
+    url = "/about/"
     weight = 3
 
 # Insert your username and the icon will apear on the page as long as
@@ -101,14 +107,14 @@ googleAnalytics = ""
     wordpress       = ""
     tumblr          = ""
     xing            = ""
-    linkedin        = ""
+    linkedin        = "charliegriefer"
     slideshare      = ""
     stackoverflow   = ""
-    reddit          = ""
+    reddit          = "charliegriefer"
     pinterest       = ""
     googleplus      = ""
     facebook        = ""
     facebook_admin  = ""
     twitter_domain  = ""
     twitter         = "charliegriefer"
-    email           = ""
+    email           = "charlie@griefer.com"
