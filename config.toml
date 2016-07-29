@@ -22,7 +22,7 @@ publishdir = "public"
     socialAppearAtTop    = true
     socialAppearAtBottom = true
     # set this to the section name if section is not post
-    # viewMorePostLink     = "/blog/"
+    # viewMorePostLink     = "/posts/"
 
 # Optional Params
     categoriesByCount    = true
